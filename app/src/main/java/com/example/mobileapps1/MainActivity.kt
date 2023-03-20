@@ -18,8 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         val education_button = findViewById<Button>(R.id.education_btn)
-        education_button.setOnClickListener{
-
-        }
+        education_button.setOnClickListener{}
     }}
 
