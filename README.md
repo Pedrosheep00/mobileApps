@@ -6,7 +6,7 @@ Course: BSC
 
 ## Requirement Checklist
 
-- [] Home page
+- [x] Home page
     - [x] Show profile photo: With atleast 5dp separation from the layout
     - [x] Your Details: horizontally centered in layout
         - [x] Name
@@ -22,7 +22,7 @@ Course: BSC
         - [x] Text: (c) 2023 Your name. All rights reserved.
         - [x] has a small font size
         - [x] has dark gray color
-        - [ ] has a top padding 10dp with a top gray border of 1dp (to separate it out from the main content)
+        - [x] has a top padding 10dp with a top gray border of 1dp (to separate it out from the main content)
 - [ ] Education, Skills, and Achievement pages contain:
     - [ ] title row: not scrollable, dark bg, light icon and text, horizontally centered
     - [ ] content: scrollable
