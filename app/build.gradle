@@ -1,11 +1,16 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-android-extensions'
 }
 
 android {
     namespace 'com.example.mobileapps1'
     compileSdk 33
+
+    buildFeatures{
+        viewBinding = true
+    }
 
     defaultConfig {
         applicationId "com.example.mobileapps1"
